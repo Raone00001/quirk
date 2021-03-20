@@ -27,7 +27,7 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 
 ---
 
-<p align="center">
+<p align="left">
 <h1 align="center">✨🐙 quirk. </h1>
 </p>
 <p align="center">
